@@ -1,0 +1,2 @@
+[21-Nov-2022 13:17:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yubuntut/majengogarbage.buzz/staff/finance_manager/sidebar.php:4) in /home/yubuntut/majengogarbage.buzz/staff/finance_manager/session.php on line 26
+[21-Nov-2022 13:18:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yubuntut/majengogarbage.buzz/staff/finance_manager/sidebar.php:4) in /home/yubuntut/majengogarbage.buzz/staff/finance_manager/session.php on line 26

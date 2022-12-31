@@ -1,0 +1,433 @@
+[21-Nov-2022 12:25:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:25:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:25:49 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:25:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:26:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:26:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:26:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:26:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:26:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:26:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:26:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:26:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:26:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:26:22 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:26:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:26:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:26:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:26:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:26:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:26:41 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:26:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:28:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:04 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:28:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:28:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:44 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:28:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:28:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:56 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:28:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:57 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:28:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:28:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:58 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:28:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:28:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:29:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:29:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:29:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:29:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:29:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:29:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:29:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:29:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:29:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:29:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:29:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:29:01 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:30:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:30:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:30:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:30:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:30:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:30:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:22 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:30:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:30:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:30:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:30:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:25 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:30:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:30:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:29 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:30:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:30:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:29 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:30:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 12:30:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 12:30:50 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 12:30:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 13:10:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 13:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 13:10:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 13:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 13:10:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 13:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 13:10:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 13:10:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 13:10:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 13:10:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 13:10:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 13:10:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 13:10:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:10:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 13:10:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 13:11:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:11:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:11:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 13:11:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 13:11:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:11:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:11:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 13:11:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 13:11:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:11:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 13:11:25 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 13:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 18:47:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:47:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:47:27 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 18:47:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 18:47:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:47:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:47:40 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 18:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 18:47:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:47:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:47:48 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 18:47:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 18:47:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:47:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:47:50 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 18:47:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 18:48:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:48:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:48:53 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 18:48:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 18:48:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:48:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:48:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 18:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 18:48:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:48:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 18:48:55 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 18:48:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 19:50:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 19:50:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 19:50:11 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 19:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 19:51:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 19:51:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 19:51:37 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 19:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16
+[21-Nov-2022 19:52:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 19:52:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/db.php on line 22
+[21-Nov-2022 19:52:16 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 12
+[21-Nov-2022 19:52:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php:16
+Stack trace:
+#0 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/sidebar.php(51): include()
+#1 /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/main.php(2): include('/home/yubuntut/...')
+#2 {main}
+  thrown in /home/yubuntut/majengogarbage.buzz/staff/garbage_collector/session.php on line 16

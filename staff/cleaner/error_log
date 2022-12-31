@@ -1,0 +1,1 @@
+[23-Nov-2022 10:00:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yubuntut/majengogarbage.buzz/staff/cleaner/sidebar.php:5) in /home/yubuntut/majengogarbage.buzz/staff/cleaner/session.php on line 26
