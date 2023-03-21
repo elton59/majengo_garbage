@@ -111,6 +111,10 @@ include("topbar.php");
 
                             if (isset($_GET['rq_id'])) {
                                 $id = $_GET['rq_id'];
+                                $get_user_id = $mysqli->query("SELECT * FROM cleaner where email='$user'");
+                                $row = $get_user_id->fetch_assoc();
+                                $fname = $row['firstname'];
+                                $result2=$mysqli->query("INSERT INTO notification(message) values('$fname has completed his assigned task')")or die($mysqli->error);
                                 $result = $mysqli->query("UPDATE requested_services SET subscription_status='completed' WHERE id = $id") or die($mysqli->error);
 
 

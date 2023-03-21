@@ -73,7 +73,7 @@ if(isset($_POST['register_finance']))
     $uname=$_POST['uname'];
     $padress = $_POST['padress'];
     $gender = $_POST['gender'];
-  
+    $result2=$mysqli->query("INSERT INTO notification(message) values('$fname cleaner account created successfully')")or die($mysqli->error);
    $result=$mysqli->query("INSERT INTO finance_manager(firstname,lastname,username,email,adress,gender,password) values('$fname','$lname','$uname','$ademail','$padress','$gender','$password') ")or die($mysqli->error);
  
 	

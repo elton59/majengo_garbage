@@ -74,7 +74,7 @@ if(isset($_POST['register_service_manager']))
     $padress = $_POST['padress'];
     $gender = $_POST['gender'];
     $pno = $_POST['pno'];
-  
+    $result2=$mysqli->query("INSERT INTO notification(message) values('$fname cleaner account created successfully')")or die($mysqli->error);
    $result=$mysqli->query("INSERT INTO garbage_collectors(firstname,lastname,username,email,adress,gender,password,phone_number) values('$fname','$lname','$uname','$ademail','$padress','$gender','$password','$pno')")or die($mysqli->error);
  
 	

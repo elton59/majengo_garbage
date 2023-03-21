@@ -1,8 +1,10 @@
 <?php
-$servername='localhost';
-$username='root';
- $password='';
-$db='majengo_garbage';
+$servername='localhost'; $username='yubuntu1_nur'; $password='#Karibu2030'; $db='yubuntu_majengo';
+
+
+
+
+
 
 
 

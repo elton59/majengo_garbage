@@ -1,8 +1,14 @@
 <?php
 $servername='localhost';
-$username='root';
- $password='';
-$db='majengo_garbage';
+ $username='root';
+  $password=''; 
+  $db='majengo_garbage';
+
+
+
+
+
+
 
 
 //create connection

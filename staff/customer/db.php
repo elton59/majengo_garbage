@@ -1,10 +1,17 @@
 <?php
-$servername='localhost';
+$servername='localhost'; 
 $username='root';
- $password='';
+$password='';
 $db='majengo_garbage';
+
+
+
+
+
+
+
 // $servername='localhost';
-// $username='yubuntut_nur';
+// $username='yubuntut1_nur';
 // $password='#Karibu2030';
 // $db='yubuntut_majengo';
 
@@ -19,10 +26,8 @@ $db='majengo_garbage';
 
 
 //create connection
-$mysqli =new mysqli($servername, $username, $password,$db)or die(mysqli_error($mysqli));
+$mysqli = new mysqli($servername, $username, $password, $db) or die(mysqli_error($mysqli));
 // Check connection
 if (!$mysqli) {
     die($mysqli->error);
-   }
-
-?>
+}

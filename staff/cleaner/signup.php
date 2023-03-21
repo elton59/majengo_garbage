@@ -74,6 +74,8 @@ if(isset($_POST['register_service_manager']))
     $padress = $_POST['padress'];
     $pno = $_POST['pno'];
     $gender = $_POST['gender'];
+    
+ 
   
    $result=$mysqli->query("INSERT INTO cleaner(firstname,lastname,username,email,adress,gender,password,phone_number) values('$fname','$lname','$uname','$ademail','$padress','$gender','$password','$pno')")or die($mysqli->error);
  

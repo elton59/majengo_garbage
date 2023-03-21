@@ -52,13 +52,13 @@ include("db.php");
 
                         <!-- Earnings (Monthly) Card Example -->
                         <div class="col-xl-3 col-md-6 mb-4">
-                            <a href="view_garbage_collectors.php">
+                            <a href="view_garbage_collector.php">
                             <div class="card border-left-primary shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
                                             <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                                                NEW Garbage Collector</div>
+                                               New Garbage Collectors </div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800"><?php
                                             $query=$mysqli->query("SELECT  COUNT(id )  as total from garbage_collectors where account_status='pending'") or die($mysqli->error);
                                              while($row=$query->fetch_assoc())
@@ -89,7 +89,7 @@ include("db.php");
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
                                             <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
-                                               new Cleaners</div>
+                                               Cleaning History</div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800"><?php 
                                              $query=$mysqli->query("SELECT count(id) as total from cleaner where account_status='pending'" ) or die($mysqli->error);
                                               while($row=$query->fetch_assoc())
@@ -235,19 +235,46 @@ include("db.php");
                             </div>
                                             </a>
                         </div>
-                         
-                          <!-- Earnings (Monthly) Card Example -->
-      <div class="col-xl-3 col-md-6 mb-4">
-        <a href='view_requested_services.php'>
+                        <div class="col-xl-3 col-md-6 mb-4">
+                        <a href="view_cleaner.php">
                             <div class="card border-left-success shadow h-100 py-2">
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
                                             <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
-                                                Pending Requests</div>
+                                               Cleaning History</div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800"><?php 
-                                             $query=$mysqli->query("SELECT count(payments.request_id) as total,  payments.request_id as request_id,
-                                             requested_services.service_name as service_name,clients.firstname as firstname,clients.lastname as lastname, payments.id as payment_id,payments.transaction_id as transaction_id,payments.amount as amount_paid,payments.payment_date as payment_date,payments.payment_status as payment_status,finance_manager.email as finance_manager_email  from payments  join clients on clients.id=payments.userid join finance_manager on finance_manager.id=payments.finance_manager_id join requested_services on requested_services.id=payments.request_id where payments.payment_status!='pending' and requested_services.subscription_status!='subscribed'and requested_services.subscription_status!='completed'") or die($mysqli->error);
+                                             $query=$mysqli->query("SELECT count(id) as total from cleaner where account_status='pending'" ) or die($mysqli->error);
+                                              while($row=$query->fetch_assoc())
+                                              {
+                                                  $staffcount=$row["total"];
+                                                  echo "$staffcount";
+                                              }
+                         
+                                             
+                                              
+                                            ?>
+                                            </div>
+                                        </div>
+                                        <div class="col-auto">
+                                         
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </div>
+                          <!-- Earnings (Monthly) Card Example -->
+      <div class="col-xl-3 col-md-6 mb-4">
+        <a href='task_delegation.php'>
+                            <div class="card border-left-success shadow h-100 py-2">
+                                <div class="card-body">
+                                    <div class="row no-gutters align-items-center">
+                                        <div class="col mr-2">
+                                            <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
+                                                Task Delegation</div>
+                                            <div class="h5 mb-0 font-weight-bold text-gray-800"><?php 
+                                             $query=$mysqli->query("SELECT count(requested_services.id) as total from requested_services  where requested_services.subscription_status='subscribed'") or die($mysqli->error);
                                               while($row=$query->fetch_assoc())
                                               {
                                                   $staffcount=$row["total"];
@@ -270,6 +297,7 @@ include("db.php");
       <!-- Earnings (Monthly) Card Example -->
       <!-- Earnings (Monthly) Card Example -->
     </div>
+    
             <!-- End of Main Content -->
 
            
